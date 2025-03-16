@@ -19,14 +19,3 @@ REACT_APP_OMDB_API_KEY=your_api_key_here
 Start the development server:
 
 npm start
-
-Project Structure
-src/
-│── api/omdb.js # API helper functions
-│── components/
-│ ├── MovieCard.js # Displays movie cards
-│ ├── PortalModal.js # React Portal for movie details
-│── pages/
-│ ├── Home.js # Search, filtering, pagination
-│ ├── MovieDetails.js # Movie details modal
-│── App.js # Routing setup
